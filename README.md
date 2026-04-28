@@ -1,7 +1,7 @@
 
 ---
 
-# 🚗 CarPeel — Mobilidade Colaborativa Universitária
+#  CarPeel — Mobilidade Colaborativa Universitária
 
 **Proposta de inovação** desenvolvida na disciplina de Inovação — Unisul 2026.
 
